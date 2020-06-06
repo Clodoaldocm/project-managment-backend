@@ -7,3 +7,7 @@ Foi passado para uma aplicação WEB afim de estudos de node.js e React. Como ba
 
 Este backend foi está hospedade no Heroku, enquanto o frontend está num servidor AWS. Isso foi feito apenas por motivo de estudo e para conhecer os dois serviços.
 
+Para ver a aplicação funcionado:
+
+[Gerenciamento de Projetos](http://projectsman.s3-website.us-east-1.amazonaws.com/) *(na primeira vez que clica em um dos botões demora um pouco para aparecer os dados, pois o heroku coloca o backend em standby, mas depois vai aparecer normal)*
+
